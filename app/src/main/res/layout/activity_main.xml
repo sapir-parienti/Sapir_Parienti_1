@@ -14,7 +14,7 @@
         android:onClick="go"
         android:text="CLICK ME"
         android:textSize="50dp"
-        tools:layout_editor_absoluteX="441dp"
-        tools:layout_editor_absoluteY="1546dp" />
+        tools:layout_editor_absoluteX="460dp"
+        tools:layout_editor_absoluteY="1654dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
